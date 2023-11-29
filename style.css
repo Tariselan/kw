@@ -1,0 +1,28 @@
+/*
+COLOUR PALETTE:
+#ffc266
+#fb9062
+#ee5d6c
+#ce4993
+#6a0d83
+
+*/
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ffc266;
+}
+h1 {
+    text-align: center;
+    color: #6a0d83;
+}
+div#howlong {
+    width: 300px;
+    height: 200px;
+    background-color: #ee5d6c;
+    margin: 0 auto;
+    border: #fb9062 solid 10px;
+    border-radius: 10%;
+    text-align: center;
+    color: #6a0d83;
+}
